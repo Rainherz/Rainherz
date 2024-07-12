@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rodsteph!</h1>
-💫 About Me:
+💫 About Me: <br>
 🔭 Passionate developer and cybersecurity student!<br><br>👋 Hi there! I'm a student with a deep passion for development and cybersecurity. Currently, I'm diving into the exciting world of hacking and learning as much as I can.<br><br>👨‍💻 Right now, I'm collaborating on a PHP project for a school, where we're working on improving and styling a web application that displays student attendance and grades.<br><br>🌐 I'm also a proud member of the UEHA community, where I engage with like-minded individuals and expand my knowledge in the field.<br><br>🤝 I’m looking for help with advanced hacking techniques and best practices in secure coding.<br><br>🌱 I’m currently learning various hacking methodologies and cybersecurity tools.<br><br>⚡ Fun fact: I love discovering new vulnerabilities and thinking like a hacker to find creative solutions.
 
 
